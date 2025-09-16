@@ -1,0 +1,3 @@
+[submodule "continuous-integration/projeto_go_alura"]
+	path = continuous-integration/projeto_go_alura
+	url = git@github.com:Xurlz/3983-integracao-continua.git
