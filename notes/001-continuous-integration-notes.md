@@ -3,6 +3,5 @@ Integração Contínua
 
 ### O que é Integração Contínua
 
-Integração Contínua: Conceito aplicado em contextos onde, usando o git, faremos push para um repositório remoto.
+Conceito que defende que as alterações devem ser integradas ao código de forma frequente, contínua. Com integrações frequentes, ações podem ser tomadas de forma ágil, evitando problemas.
 
-Ela se refere à frequência com que as mudanças são integradas ao código.
