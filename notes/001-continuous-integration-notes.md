@@ -9,3 +9,4 @@ Para a integrar continuamente, são necessários processos automatizados.
 
 Ferramentas para automatização serão utilizadas.
 
+Erroneamente definido como apenas uma parte do que realmente é.
