@@ -1,3 +1,6 @@
 [submodule "continuous-integration/projeto_go_alura"]
 	path = continuous-integration/projeto_go_alura
 	url = git@github.com:Xurlz/3983-integracao-continua.git
+[submodule "continuous-integration/Curso_CI_2"]
+	path = continuous-integration/Curso_CI_2
+	url = git@github.com:Xurlz/Curso_CI_2.git
